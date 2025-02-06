@@ -1,4 +1,13 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Alejandro
+
+💻 Titulado en **SMR** y **DAM**. Me apasiona la programación y subo proyectos para mejorar mis habilidades en diferentes lenguajes.  
+📍 Ubicación: Galicia, España  
+📂 Actualmente comparto proyectos en **Java, Unity, Laravel y más**.  
+
+🔗 **Encuéntrame en:**  
+- 📧 alejandrocasdiaz@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/alejandrocasdiaz)  
+- 🔧 [Mis repositorios](https://github.com/alejandrocasdiaz?tab=repositories)  
 
 <!--
 **alejandrocasdiaz/alejandrocasdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
